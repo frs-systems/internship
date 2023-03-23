@@ -4,7 +4,9 @@
 Following tasks are not all mandatory, nor are there any specific rules to do them.
 Any programing language is allowed.
 After completion you'll be asked about your solution.
-https://replit.com/languages/
+https://repl.it/languages/python3 
+
+ 
 
 ## Task 1
 A palindrome is a word which reads the same backward as forward, such as madam or racecar.
