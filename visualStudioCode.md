@@ -1,4 +1,7 @@
 From https://code.visualstudio.com/docs/setup/linux#_install-vs-code-on-linux
 
-https://go.microsoft.com/fwlink/?LinkID=760868
+
+wget -o /tmp/vCode.deb https://go.microsoft.com/fwlink/?LinkID=760868 
+sudo apt-get install /tmp/vCode.deb
+
 
